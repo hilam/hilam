@@ -13,8 +13,9 @@
   * hildeberto@gmail.com
   * https://dev.to/hilam
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hilam)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=hilam&show_icons=true&hide_border=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilam)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 hilam/hilam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
